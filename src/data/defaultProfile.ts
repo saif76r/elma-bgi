@@ -1,22 +1,22 @@
 import { ProfileData } from '../types';
 
 import logoImg from '../assets/images/bgi_logo_1786128343361.jpg';
-import profileImg from '../assets/images/rabia_asshead.jpg';
+import profileImg from '../assets/images/nadia_asshead.jpg';
 
 export const BGI_LOGO_PATH = logoImg;
 
 export const DEFAULT_PROFILE: ProfileData = {
-    name: 'Rabia Aktar Tisha ',
+    name: 'Nadia Rahaman Meghla ',
 
-    dept: 'Research ',
+    dept: 'Human Resource',
 
     role: 'Assistant Director',
 
-    email: 'rabiatishabgicommunity@gmail.com',
+    email: 'meghla.bgicommunity@gmail.com',
 
-    phone: '+880  01300639148',
+    phone: '+880  1618517882',
 
-    bloodGroup: 'B+',
+    bloodGroup: 'O+',
 
     avatarUrl: profileImg,
 
@@ -27,7 +27,7 @@ export const DEFAULT_PROFILE: ProfileData = {
     location: 'Dhaka, Bangladesh',
 
     socials: {
-        facebook: 'https://www.facebook.com/tazin.tisha.988',
+        facebook: 'https://www.facebook.com/meghala.456627',
 
        
     }

@@ -1,22 +1,22 @@
 import { ProfileData } from '../types';
 
 import logoImg from '../assets/images/bgi_logo_1786128343361.jpg';
-import profileImg from '../assets/images/rch_head.jpg';
+import profileImg from '../assets/images/hr_head.jpg';
 
 export const BGI_LOGO_PATH = logoImg;
 
 export const DEFAULT_PROFILE: ProfileData = {
-    name: 'Saima Islam Eti ',
+    name: 'Asma Sultana Minan ',
 
-    dept: 'Research',
+    dept: 'Human Resources',
 
     role: 'Director ',
 
-    email: 'saimaislambgicommunity@gmail.com',
+    email: 'minan.bgicommunity@gmail.com',
 
-    phone: '+880  1631511937',
+    phone: '+880  1850150548',
 
-    bloodGroup: 'A+',
+    bloodGroup: 'O+',
 
     avatarUrl: profileImg,
 
@@ -27,7 +27,7 @@ export const DEFAULT_PROFILE: ProfileData = {
     location: 'Dhaka, Bangladesh',
 
     socials: {
-        facebook: 'https://www.facebook.com/saima.islameti.1',
+        facebook: 'https://www.facebook.com/asma.sultana.minan',
 
        
     }

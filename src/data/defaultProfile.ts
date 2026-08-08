@@ -1,20 +1,20 @@
 import { ProfileData } from '../types';
 
 import logoImg from '../assets/images/bgi_logo_1786128343361.jpg';
-import profileImg from '../assets/images/alpha_asshead.jpg';
+import profileImg from '../assets/images/jinia_head.jpg';
 
 export const BGI_LOGO_PATH = logoImg;
 
 export const DEFAULT_PROFILE: ProfileData = {
-    name: 'Mahbuba Akter Alpha',
+    name: 'Jinia Akter',
 
     dept: 'Creative Design & Cultural  ',
 
-    role: 'Assistant Director',
+    role: 'Director',
 
-    email: 'mahbubaakteralpha.bgicommunity@gmail.com',
+    email: 'jiniaakter.bgicommunity@gmail.com',
 
-    phone: '+880  1624380902',
+    phone: '+880  1829848252',
 
     bloodGroup: 'A+',
 

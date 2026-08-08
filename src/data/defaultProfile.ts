@@ -1,20 +1,20 @@
 import { ProfileData } from '../types';
 
 import logoImg from '../assets/images/bgi_logo_1786128343361.jpg';
-import profileImg from '../assets/images/jinia_head.jpg';
+import profileImg from '../assets/images/siam_asshead.jpg';
 
 export const BGI_LOGO_PATH = logoImg;
 
 export const DEFAULT_PROFILE: ProfileData = {
-    name: 'Jinia Akter',
+    name: 'Tanzila Tabassum Siam',
 
-    dept: 'Creative Design & Cultural  ',
+    dept: 'Management ',
 
-    role: 'Director',
+    role: 'Assistant Director',
 
-    email: 'jiniaakter.bgicommunity@gmail.com',
+    email: 'tanzilasiam.bgicommunity@gmail.com',
 
-    phone: '+880  1829848252',
+    phone: '+880  1980488810',
 
     bloodGroup: 'A+',
 
@@ -27,7 +27,7 @@ export const DEFAULT_PROFILE: ProfileData = {
     location: 'Dhaka, Bangladesh',
 
     socials: {
-        facebook: 'https://www.facebook.com/jinia.akter.02082018',
+        facebook: 'https://www.facebook.com/tanzilatabassum.siam',
 
        
     }

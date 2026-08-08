@@ -1,22 +1,22 @@
 import { ProfileData } from '../types';
 
 import logoImg from '../assets/images/bgi_logo_1786128343361.jpg';
-import profileImg from '../assets/images/mn_asshead.jpg';
+import profileImg from '../assets/images/hr_asshead.jpg';
 
 export const BGI_LOGO_PATH = logoImg;
 
 export const DEFAULT_PROFILE: ProfileData = {
-    name: 'Anika Rahman  ',
+    name: 'Aishe Deb Nath ',
 
-    dept: 'Management',
+    dept: 'Human Resource',
 
     role: 'Assistant Director',
 
-    email: 'anikarahman.bgicommunity@gmail.com',
+    email: 'aishenath.bgicommunity@gmail.com',
 
-    phone: '+880  1975658359',
+    phone: '+880  1958256332',
 
-    bloodGroup: 'A+',
+    bloodGroup: 'B+',
 
     avatarUrl: profileImg,
 
@@ -27,7 +27,7 @@ export const DEFAULT_PROFILE: ProfileData = {
     location: 'Dhaka, Bangladesh',
 
     socials: {
-        facebook: 'https://www.facebook.com/profile.php?id=100056025837102',
+        facebook: 'https://www.facebook.com/ananiya.aishe',
 
        
     }

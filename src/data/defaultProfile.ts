@@ -1,22 +1,22 @@
 import { ProfileData } from '../types';
 
 import logoImg from '../assets/images/bgi_logo_1786128343361.jpg';
-import profileImg from '../assets/images/siam_asshead.jpg';
+import profileImg from '../assets/images/rabia_asshead.jpg';
 
 export const BGI_LOGO_PATH = logoImg;
 
 export const DEFAULT_PROFILE: ProfileData = {
-    name: 'Tanzila Tabassum Siam',
+    name: 'Rabia Aktar Tisha ',
 
-    dept: 'Management ',
+    dept: 'Research ',
 
     role: 'Assistant Director',
 
-    email: 'tanzilasiam.bgicommunity@gmail.com',
+    email: 'rabiatishabgicommunity@gmail.com',
 
-    phone: '+880  1980488810',
+    phone: '+880  01300639148',
 
-    bloodGroup: 'A+',
+    bloodGroup: 'B+',
 
     avatarUrl: profileImg,
 
@@ -27,7 +27,7 @@ export const DEFAULT_PROFILE: ProfileData = {
     location: 'Dhaka, Bangladesh',
 
     socials: {
-        facebook: 'https://www.facebook.com/tanzilatabassum.siam',
+        facebook: 'https://www.facebook.com/tazin.tisha.988',
 
        
     }

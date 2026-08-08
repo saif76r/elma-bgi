@@ -1,22 +1,22 @@
 import { ProfileData } from '../types';
 
 import logoImg from '../assets/images/bgi_logo_1786128343361.jpg';
-import profileImg from '../assets/images/faria_asshead.jpg';
+import profileImg from '../assets/images/taha_head.jpg';
 
 export const BGI_LOGO_PATH = logoImg;
 
 export const DEFAULT_PROFILE: ProfileData = {
-    name: 'Fariya Abedin',
+    name: 'Nazia Amrin Taha ',
 
-    dept: 'Creative & Cultural ',
+    dept: 'Operation ',
 
-    role: 'Assistant Director',
+    role: 'Director',
 
-    email: 'fariyaabedin23.bgiconmunity@gmail.com',
+    email: 'naziaa2.bgicommunity@gmail.com',
 
-    phone: '+880  1611432285',
+    phone: '+880  1712054362',
 
-    bloodGroup: 'O+',
+    bloodGroup: 'B+',
 
     avatarUrl: profileImg,
 
@@ -27,7 +27,7 @@ export const DEFAULT_PROFILE: ProfileData = {
     location: 'Dhaka, Bangladesh',
 
     socials: {
-        facebook: 'https://www.facebook.com/fariya.abedin.2024',
+        facebook: 'https://www.facebook.com/nazia.amrin.taha',
 
        
     }

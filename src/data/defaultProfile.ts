@@ -1,22 +1,22 @@
 import { ProfileData } from '../types';
 
 import logoImg from '../assets/images/bgi_logo_1786128343361.jpg';
-import profileImg from '../assets/images/hr_asshead.jpg';
+import profileImg from '../assets/images/lamia_asshead.jpg';
 
 export const BGI_LOGO_PATH = logoImg;
 
 export const DEFAULT_PROFILE: ProfileData = {
-    name: 'Aishe Deb Nath ',
+    name: 'Lamia Aktar Norin ',
 
     dept: 'Human Resource',
 
     role: 'Assistant Director',
 
-    email: 'aishenath.bgicommunity@gmail.com',
+    email: 'lamiaaktar.bgicommunity@gmail.com',
 
-    phone: '+880  1958256332',
+    phone: '+880  1866539025',
 
-    bloodGroup: 'B+',
+    bloodGroup: 'O+',
 
     avatarUrl: profileImg,
 
@@ -27,7 +27,7 @@ export const DEFAULT_PROFILE: ProfileData = {
     location: 'Dhaka, Bangladesh',
 
     socials: {
-        facebook: 'https://www.facebook.com/ananiya.aishe',
+        facebook: 'https://www.facebook.com/profile.php?id=61577851365581',
 
        
     }

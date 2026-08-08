@@ -1,22 +1,22 @@
 import { ProfileData } from '../types';
 
 import logoImg from '../assets/images/bgi_logo_1786128343361.jpg';
-import profileImg from '../assets/images/mn_head.jpg';
+import profileImg from '../assets/images/rch_head.jpg';
 
 export const BGI_LOGO_PATH = logoImg;
 
 export const DEFAULT_PROFILE: ProfileData = {
-    name: 'Afsana Siddika Mim ',
+    name: 'Saima Islam Eti ',
 
-    dept: 'Management',
+    dept: 'Research',
 
     role: 'Director ',
 
-    email: 'afsana.bgicommunity@gmail.com',
+    email: 'saimaislambgicommunity@gmail.com',
 
-    phone: '+880 1757759981',
+    phone: '+880  1631511937',
 
-    bloodGroup: 'B+',
+    bloodGroup: 'A+',
 
     avatarUrl: profileImg,
 
@@ -27,7 +27,7 @@ export const DEFAULT_PROFILE: ProfileData = {
     location: 'Dhaka, Bangladesh',
 
     socials: {
-        facebook: 'https://www.facebook.com/afsana.siddika.523',
+        facebook: 'https://www.facebook.com/saima.islameti.1',
 
        
     }

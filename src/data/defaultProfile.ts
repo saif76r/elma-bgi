@@ -1,20 +1,20 @@
 import { ProfileData } from '../types';
 
 import logoImg from '../assets/images/bgi_logo_1786128343361.jpg';
-import profileImg from '../assets/images/lamia_asshead.jpg';
+import profileImg from '../assets/images/faria_asshead.jpg';
 
 export const BGI_LOGO_PATH = logoImg;
 
 export const DEFAULT_PROFILE: ProfileData = {
-    name: 'Lamia Aktar Norin ',
+    name: 'Fariya Abedin',
 
-    dept: 'Human Resource',
+    dept: 'Creative & Cultural ',
 
     role: 'Assistant Director',
 
-    email: 'lamiaaktar.bgicommunity@gmail.com',
+    email: 'fariyaabedin23.bgiconmunity@gmail.com',
 
-    phone: '+880  1866539025',
+    phone: '+880  1611432285',
 
     bloodGroup: 'O+',
 
@@ -27,7 +27,7 @@ export const DEFAULT_PROFILE: ProfileData = {
     location: 'Dhaka, Bangladesh',
 
     socials: {
-        facebook: 'https://www.facebook.com/profile.php?id=61577851365581',
+        facebook: 'https://www.facebook.com/fariya.abedin.2024',
 
        
     }

@@ -1,22 +1,22 @@
 import { ProfileData } from '../types';
 
 import logoImg from '../assets/images/bgi_logo_1786128343361.jpg';
-import profileImg from '../assets/images/taha_head.jpg';
+import profileImg from '../assets/images/jinia_head.jpg';
 
 export const BGI_LOGO_PATH = logoImg;
 
 export const DEFAULT_PROFILE: ProfileData = {
-    name: 'Nazia Amrin Taha ',
+    name: 'Jinia  Akter',
 
-    dept: 'Operation ',
+    dept: 'Creative Design & Cultural  ',
 
     role: 'Director',
 
-    email: 'naziaa2.bgicommunity@gmail.com',
+    email: 'jiniaakter.bgicommunity@gmail.com',
 
-    phone: '+880  1712054362',
+    phone: '+880  1829848252',
 
-    bloodGroup: 'B+',
+    bloodGroup: 'A+',
 
     avatarUrl: profileImg,
 
@@ -27,7 +27,7 @@ export const DEFAULT_PROFILE: ProfileData = {
     location: 'Dhaka, Bangladesh',
 
     socials: {
-        facebook: 'https://www.facebook.com/nazia.amrin.taha',
+        facebook: 'https://www.facebook.com/jinia.akter.02082018',
 
        
     }

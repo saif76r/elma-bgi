@@ -1,20 +1,20 @@
 import { ProfileData } from '../types';
 
 import logoImg from '../assets/images/bgi_logo_1786128343361.jpg';
-import profileImg from '../assets/images/nadia_asshead.jpg';
+import profileImg from '../assets/images/elma_asshead.jpg';
 
 export const BGI_LOGO_PATH = logoImg;
 
 export const DEFAULT_PROFILE: ProfileData = {
-    name: 'Nadia Rahaman Meghla ',
+    name: 'Elma Fairose ',
 
-    dept: 'Human Resource',
+    dept: 'PR & Marketing',
 
     role: 'Assistant Director',
 
-    email: 'meghla.bgicommunity@gmail.com',
+    email: 'elma.bgicommunity@gmail.com',
 
-    phone: '+880  1618517882',
+    phone: '+880  1870966502',
 
     bloodGroup: 'O+',
 
@@ -27,8 +27,8 @@ export const DEFAULT_PROFILE: ProfileData = {
     location: 'Dhaka, Bangladesh',
 
     socials: {
-        facebook: 'https://www.facebook.com/meghala.456627',
+        facebook: 'https://www.facebook.com/e.fairoseee',
 
-       
+    
     }
 };
